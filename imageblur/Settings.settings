@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="imageblur" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="NumberOfTasks" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="PoolNodeCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="PoolId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ImageBlurPool</Value>
+    </Setting>
+    <Setting Name="DeleteJob" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="DeleteContainer" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="JobId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ImageBlurJob</Value>
+    </Setting>
+    <Setting Name="DeletePool" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SourceImageNames" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sourceimages/sourceimage1.jpg,sourceimages/sourceimage2.jpg,sourceimages/sourceimage3.jpg,sourceimages/sourceimage4.jpg,sourceimages/sourceimage5.jpg,sourceimages/sourceimage6.jpg,sourceimages/sourceimage7.jpg,sourceimages/sourceimage8.jpg,sourceimages/sourceimage9.jpg</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
